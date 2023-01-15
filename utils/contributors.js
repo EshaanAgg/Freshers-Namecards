@@ -32,7 +32,14 @@ const CONTRIBUTERS = [
             </div>
         `,
         github: "https://github.com/eshaanagg",
-    }
+    },
+    {
+        handle_name: 'tmsunnyduck',
+        name: "Masne Tejas Deepak",
+        image: "/images/MasneTejasDeepak.jpg",
+        description: "Hello everyone, Tejas Masne here from Metallurgy branch",
+        github: "https://github.com/tmsunnyduck",
+    },
 ];
 
 export default CONTRIBUTERS;
