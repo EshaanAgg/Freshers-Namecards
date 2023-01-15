@@ -8,8 +8,8 @@ const CONTRIBUTERS = [
     },
     // Start adding your data below
     {
-        handle_name: 'eshaanagg',
-        name: "Eshaan Aggarwal",
+        handle_name: 'jatin8769891772',
+        name: "Jatin Gupta",
         image: "/images/eshaanagg.jpg",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
