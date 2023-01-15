@@ -37,7 +37,7 @@ const CONTRIBUTERS = [
     // VaibhavTripathi
     {
         handle_name: 'vaibhav-1508',
-        name: "Vaibhav Tripathi",
+        name: "Vaibhav Tripathi ",
         image: "/images/vaibhav.png",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
