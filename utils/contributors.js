@@ -58,7 +58,7 @@ const CONTRIBUTERS = [
             </div>
         `,
         github: "https://github.com/vaibhav-1508",
-    }
+    },
     {
         handle_name: 'ashish-bazad',
         name: "Ashish",
