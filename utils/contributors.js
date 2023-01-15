@@ -10,7 +10,7 @@ const CONTRIBUTERS = [
     {
         handle_name: 'nainimaru',
         name: "Naini Maru",
-        image: "/images/eshaanagg.jpg",
+        image: "/images/wallpaper1.jfif",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
             <div class="text-center">
