@@ -33,7 +33,7 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/eshaanagg",
     },
-     {
+    {
         handle_name: 'vaibhav-1508',
         name: "Vaibhav Tripathi",
         image: "/images/eshaanagg.jpg",
@@ -58,7 +58,14 @@ const CONTRIBUTERS = [
             </div>
         `,
         github: "https://github.com/vaibhav-1508",
-    }
+    },
+    {
+        handle_name: 'Ricktho1',
+        name: "Ricktho Sarkar",
+        image: "/images/Ricktho.jpg",
+        description:"Hello Everyone, I am Ricktho Sarkar from Siliguri, West Bengal currently studying in IIT BHU. I have very much interest in dance, music, Coding , learning new and upcoming technologies and learning about them. Hope to meet and work with you all soon!🤗 ",
+        github: "https://github.com/Ricktho1",
+    },
 ];
 
 export default CONTRIBUTERS;
