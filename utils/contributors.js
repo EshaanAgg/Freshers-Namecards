@@ -1,4 +1,4 @@
-const CONTRIBUTERS = [
+const CONTRIBUTERS =[
     {
         handle_name: 'cops_iitbhu',
         name: "First Card",
@@ -58,7 +58,14 @@ const CONTRIBUTERS = [
             </div>
         `,
         github: "https://github.com/vaibhav-1508",
-    }
-];
+     },
+    {
+        handle_name: 'SilverDragonOfR',
+        name: "Pratik Tripathy",
+        image: "/images/cops.jpg",
+        description: "Hello everyone, this is nightfalcon.out",
+        github: "https://github.com/SilverDragonOfR",
+    },
+  ];
 
 export default CONTRIBUTERS;
