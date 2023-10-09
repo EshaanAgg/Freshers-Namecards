@@ -1,4 +1,4 @@
-const CONTRIBUTERS = [
+const CONTRIBUTERS =[
     {
         handle_name: 'cops_iitbhu',
         name: "First Card",
@@ -33,9 +33,9 @@ const CONTRIBUTERS = [
         `,
         github: "https://github.com/eshaanagg",
     },
-    {
-        handle_name: 'SilverDragonOfR',
-        name: "Pratik Tripathy",
+     {
+        handle_name: 'vaibhav-1508',
+        name: "Vaibhav Tripathi",
         image: "/images/eshaanagg.jpg",
         description: `
             <script src="https://cdn.lordicon.com//libs/frhvbuzj/lord-icon-2.0.2.js"></script>
@@ -57,8 +57,15 @@ const CONTRIBUTERS = [
                     <lord-icon src="https://cdn.lordicon.com/jpdtnwas.json" trigger="loop" colors="primary:#121331,secondary:#e88c30" style="width:25px;height:25px"></lord-icon>
             </div>
         `,
+        github: "https://github.com/vaibhav-1508",
+     },
+    {
+        handle_name: 'SilverDragonOfR',
+        name: "Pratik Tripathy",
+        image: "/images/cops.jpg",
+        description: "Hello everyone, this is nightfalcon.out",
         github: "https://github.com/SilverDragonOfR",
-    }
-];
+    },
+  ];
 
 export default CONTRIBUTERS;
